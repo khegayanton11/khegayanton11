@@ -21,7 +21,7 @@
 **SQL** — MySQL, PostgreSQL: CTE, оконные функции, сложные JOIN, проверки качества данных
 **Python** — pandas, NumPy, Matplotlib, seaborn, SciPy: очистка, EDA, проверка гипотез
 **BI** — Power BI (DAX, Power Query), Tableau, Looker Studio
-**Таблицы** — Excel (сводные, ПРОСМОТРX, Power Query), Google Sheets
+**Таблицы** — Excel (сводные, ВПР, ИНДЕКС+ПОИСКПОЗ, Power Query), Google Sheets
 **Аналитика** — продуктовые метрики, воронки, когортный анализ, A/B-тестирование
 
 ### Связаться
